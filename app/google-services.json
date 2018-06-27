@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "866750208867",
+    "firebase_url": "https://casino-qr.firebaseio.com",
+    "project_id": "casino-qr",
+    "storage_bucket": "casino-qr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866750208867:android:fa4873678aff73de",
+        "android_client_info": {
+          "package_name": "app.inacap.casinoqr.com.casinoqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866750208867-9h3m1vteslnjnoebkil63mhpkjd8rt7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.inacap.casinoqr.com.casinoqr",
+            "certificate_hash": "0a439062ae7b8251ba30a255ab62114d2187859f"
+          }
+        },
+        {
+          "client_id": "866750208867-pe4iqn4ni6lndj96eh6h0vonc6km20k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4RQGbylq2UxhKYKFQfkE09d2IlXHn5fY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866750208867-pe4iqn4ni6lndj96eh6h0vonc6km20k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
